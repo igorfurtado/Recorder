@@ -1,6 +1,6 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+<p align="center">
+  <img style="width: 200px;" src="https://user-images.githubusercontent.com/70289587/146416810-dc5e180c-b484-481d-a877-c6e1d1905e47.png" alt="Logo Sua Festa"/>
+</p>
 
 # Recorder
 
@@ -20,8 +20,7 @@ Para realização do build da aplicação, o módulo electron-builder foi instal
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Recorder App](https://user-images.githubusercontent.com/70289587/146416720-13b90899-1593-49aa-b6be-5c869978413e.png)
 
 ## Tech Stack
 
